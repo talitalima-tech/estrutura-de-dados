@@ -62,22 +62,6 @@ Implementação de uma **Árvore Binária de Busca (Binary Search Tree)**, onde:
 
 ---
 
-## 📂 Organização do Diretório
-
-estrutura-de-dados/
-│
-├── pilha/
-│ └── pilha.c
-├── fila/
-│ └── fila.c
-├── torre-de-hanoi/
-│ └── torre-de-hanoi.c
-├── arvore-binaria-de-busca/
-│ └── arvore_binaria.c
-└── README.md
-
----
-
 ## 🎓 Contexto Acadêmico
 
 Atividades desenvolvidas na graduação, com o objetivo de:
